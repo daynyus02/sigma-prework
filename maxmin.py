@@ -1,4 +1,4 @@
-def minmax(l):
+def maxmin(l):
     min = l[0]
     max = l[0]
 
@@ -14,4 +14,4 @@ def minmax(l):
 l = [2, 4, 1, 0, 2, -1]
 l = [20, 50, 12, 6, 14, 8]
 l = [100, -100]
-print(minmax(l))
+print(maxmin(l))

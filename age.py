@@ -1,4 +1,4 @@
-# in the examples provided the answers were 31 and 48 but that would have been the case if we were in 2021 not 2025
+# In the examples provided the answers were 31 and 48 but that would have been the case if we were in 2021 not 2025
 # Hence why my answers differ as I'm using the current date which is 05/03/2025
 
 from datetime import datetime
